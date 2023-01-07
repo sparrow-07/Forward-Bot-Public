@@ -1,6 +1,10 @@
 import os
 
 class Config(object):
+
+    #Port
+    PORT = environ.get("PORT", "8080")
+    
     # get a token from @BotFather
     BOT_TOKEN = os.environ.get("BOT_TOKEN", "5988361578:AAHukwb3OyI0BDGmkyVGszSbBSKjEnZUQbo")
     # The Telegram API things
