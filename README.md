@@ -1,7 +1,7 @@
 # GreyMatter-Forward-Bot
 
 ## How to Deploy? 🤔
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/GreyMattersbot/GreyMatter-Forward-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sky-botz/Auto-FWD-Bot)
 - 👆 Press the deploy button.
 
 #VPS Deploy Commands 👇
