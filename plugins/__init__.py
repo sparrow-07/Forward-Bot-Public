@@ -23,7 +23,7 @@ async def Start_msg(bot: GreyMatter , m: Message):
         [
             [InlineKeyboardButton("Owner", url="https://t.me/Ayita_P_S")],
             [InlineKeyboardButton("Channel", url="https://t.me/MX_Networks")],
-            [InlineKeyboardButton("YT Channel", url="https://youtube.com/@greymattersyt")],
+            [InlineKeyboardButton("YT Channel", url="https://youtube.com")],
         ],
     )
     )
