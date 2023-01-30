@@ -1,0 +1,4 @@
+@bot.on_message(filters.command('redeemcode'))
+def redeemcode(bot, message):
+    message.reply_text("Send the code to redeem")
+    code = bot.get_messages(chatid, message_ids=message.message_id)
