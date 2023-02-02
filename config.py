@@ -7,6 +7,4 @@ class Config(object):
     # The Telegram API things
     API_ID = int(os.environ.get("API_ID", "24198383"))
     API_HASH = os.environ.get("API_HASH", "819a631e42b840a60ac6f923e1290bce")
-    AUTH_USERS = os.environ.get("OWNER", "5757479875")
-    #PORT
-    PORT = os.environ.get("PORT", "8080")
+    AUTH_USERS = os.environ.get("OWNER", "5650200786")
