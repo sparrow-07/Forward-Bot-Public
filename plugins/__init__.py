@@ -21,8 +21,8 @@ async def Start_msg(bot: GreyMatter , m: Message):
     # parse_mode="md",
     reply_markup=InlineKeyboardMarkup(
         [
-            [InlineKeyboardButton("Owner", url="https://t.me/Ayita_P_S")],
-            [InlineKeyboardButton("Channel", url="https://t.me/MX_Networks")],
+            [InlineKeyboardButton("Owner", url="https://t.me/sparrow")],
+            [InlineKeyboardButton("Channel", url="https://t.me/cloud")],
             [InlineKeyboardButton("YT Channel", url="https://youtube.com")],
         ],
     )
